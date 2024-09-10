@@ -11,9 +11,9 @@
 # Instance Definition: https://recyclarr.dev/wiki/yaml/config-reference/basic/
 sonarr:
   anime-sonarr-v4:
-    base_url: http://10.27.1.70:9898/
-    api_key: 97b660d2affc408ab0c3464231275618
-
+    base_url: 
+    api_key: 
+    
     include:
       # Comment out any of the following includes to disable them
       - template: sonarr-quality-definition-anime
