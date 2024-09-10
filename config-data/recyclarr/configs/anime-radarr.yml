@@ -10,8 +10,8 @@
 # Instance Definition: https://recyclarr.dev/wiki/yaml/config-reference/basic/
 radarr:
   anime-radarr:
-    base_url: http://10.27.1.70:8787/
-    api_key: c4f8527a9f8740f083d9135fc197b9c9
+    base_url: 
+    api_key: 
 
     include:
       # Comment out any of the following includes to disable them
