@@ -11,8 +11,8 @@
 # Instance Definition: https://recyclarr.dev/wiki/yaml/config-reference/basic/
 sonarr:
   web-1080p-v4:
-    base_url: http://10.27.1.70:8989/
-    api_key: fa41b055a08a4cf7b22e4981748468d5
+    base_url: 
+    api_key: 
 
     include:
       # Comment out any of the following includes to disable them
